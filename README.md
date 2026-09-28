@@ -1,4 +1,4 @@
-Hi there, my name Sabir 👋
+Hi there, my name is Sabir 👋
 
 I’m a Computing student and aspiring Software Developer with experience in building applications and web-based systems.
 
