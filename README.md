@@ -21,4 +21,4 @@ What I Build
 Projects: 
 I have uploaded some of the projects i created whilst studying in greenwich university. I am also going to work on a final year project this year(which is the last) and upload it on github when i am finished. 
 
-I am also learning more programming languages such c++ on my own and willing to learn other programming languages if required.
+I am also learning more programming languages such as c++ on my own and willing to learn other programming languages if required.
